@@ -1,0 +1,12 @@
+img{
+    height: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+    border: 16px solid lightblue;
+    padding: 10px ;
+}
+
+.title-apj{
+   margin-left: 550px;
+   text-decoration: underline;
+}
